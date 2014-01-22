@@ -25,7 +25,7 @@ public final class App {
 		} else {
 			System.out.println("No");
 		}
-
+		// c'est réussi
 		if (n != 0) {
 			System.out.println("Coucou");
 		} else {
