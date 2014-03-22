@@ -1,3 +1,7 @@
+/**
+ * Test de maven
+ * @author MDian
+ */
 package sir.maven;
 
 /**
