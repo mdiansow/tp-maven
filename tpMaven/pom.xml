@@ -72,5 +72,6 @@
 	<scm>
 		<connection>scm:git:git@github.com:mdiansow/tp-maven.git</connection>
 		<url>scm:git:git@github.com:mdiansow/tp-maven.git</url>
+		<developerConnection>git@github.com:mdiansow/tp-maven.git</developerConnection>
 	</scm>
 </project>
