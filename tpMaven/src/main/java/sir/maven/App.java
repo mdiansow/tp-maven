@@ -5,6 +5,7 @@
 package sir.maven;
 
 /**
+ * Application.
  * Hello world!
  */
 
